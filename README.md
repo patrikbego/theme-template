@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Project Structure
 
 The project structure is as follows:
-
+```
 .
 ├── components
 │   ├── CustomCheckboxDemo.js
@@ -44,7 +44,7 @@ The project structure is as follows:
 └── reducers
 ├── StateProvider.js
 └── reducer.js
-
+```
 
 - `components`: Contains reusable React components used in the application. Each component has its own JavaScript file and a corresponding test file.
 
